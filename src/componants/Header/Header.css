@@ -1,0 +1,13 @@
+.header{
+    
+  height: 80px;
+    background-color: #2c2323;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.menu a{
+ text-decoration: none;
+ color: white;
+ margin-right: 50px;
+}
